@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+BTech Student  
+📊 Aspiring Data Analyst  
+💻 Skills: Python, SQL, Power BI  
+🚀 Currently learning Data Science  
+
+📫 Email: your-email@gmail.com
