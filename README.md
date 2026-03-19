@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 BTech Student  
-📊 Aspiring Data Analyst  
-💻 Skills: Python, SQL, Power BI  
-🚀 Currently learning Data Science  
+📊 Aspiring Data Analyst ,and completed artifical intillgency 
+💻 Skills: Python, SQL, Power BI  ,tableau,ai&ml
+🚀 Currently learning Data analyst 
 
-📫 Email: your-email@gmail.com
+📫 Email: nvishwateja7@gmail.com
